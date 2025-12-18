@@ -3,10 +3,11 @@
 <div align="left">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=esahqq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />-->
   <div align="left">
-  <img src="https://www.codewars.com/users/EsahQ/badges/large"/>
+    <img src="https://www.codewars.com/users/EsahQ/badges/large"/>
   </div>
   <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esahqq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esahqq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=d1amond09&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="languages graph"  />
   </div>
   <p></p>
   <div align="left">
